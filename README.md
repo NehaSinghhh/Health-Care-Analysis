@@ -50,9 +50,6 @@ HealthcareProject/
 ├── HealthCare.ipynb
 ├── Healthcare Analytics for Doctor.csv
 ├── README.md
-├── Dataset explanation.docx
-├── HEALTHCAREPROJECT.pdf
-└── 1776250340_1776165716_1730262489_1729507042_DIY_Project_ppt_template.pptx
 ```
 
 ## Setup
